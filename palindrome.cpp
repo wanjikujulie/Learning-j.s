@@ -9,7 +9,7 @@ int main()
     int length;
     bool isPalindrome = true;
  
-    cout << "Enter a word: ";
+    cout << "julie ; ";
  
     getline(cin, str);
  
